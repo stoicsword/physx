@@ -23,13 +23,12 @@
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
-// Copyright (c) 2008-2019 NVIDIA Corporation. All rights reserved.
+// Copyright (c) 2008-2021 NVIDIA Corporation. All rights reserved.
 
 
 #ifndef PX_CONFIG
 #define PX_CONFIG
 
-#define PX_PHYSX_STATIC_LIB
 
 
 #endif  // PX_CONFIG
